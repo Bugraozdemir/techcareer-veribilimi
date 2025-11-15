@@ -21,20 +21,9 @@ Bu klasörde aşağıdaki çalışmalar yer alır:
 
 ---
 
-## 🚀 Kullanılan Teknolojiler
-
-- Python 3.x  
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook
-
----
-
 ## 📘 Nasıl Çalıştırılır?
 
 1. Gerekli kütüphaneleri yükleyin:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install numpy
