@@ -1,0 +1,1 @@
+# techcareer-veribilimi
